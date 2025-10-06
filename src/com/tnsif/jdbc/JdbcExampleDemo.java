@@ -4,9 +4,6 @@ import java.sql.*;
 
 public class JdbcExampleDemo {
 
-	/**
-	 * @param args
-	 */
 	public static void main(String[] args) {
 		String  URL ="jdbc:mysql://localhost:3306/practice_project";
 		String PASSWORD="sanjay";
@@ -43,11 +40,7 @@ public class JdbcExampleDemo {
 	catch(Exception e) {
 		e.printStackTrace();
 	}
-		
-		
-		
-		
-		               
+		       
 
 	}
 
