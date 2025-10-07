@@ -6,12 +6,6 @@ class Getters_Setters_Demo{
 	private String depat;
 	private int phno;
 	
-//	Getters_Setters_Demo(String name,String depat,int phno)
-//	{
-//		this.name=name;
-//		this.depat=depat;
-//		this.phno=phno;
-//	}
 	
 	public String getName() {
 		
